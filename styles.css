@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	padding: 0;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+.preheader {
+	display: none !important;
+	visibility: hidden;
+	mso-hide: all;
+	font-size: 1px;
+	color: #909ab9;
+	line-height: 1px;
+	max-height: 0px;
+	max-width: 0px;
+	opacity: 0;
+	overflow: hidden;
+}
+
+table {
+	margin: 0;
+	padding: 0
+}
+
+table,
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+
+td.empty {
+	font-size: 0;
+}
+
+td.padding {
+	width: 30px;
+}
+
+img {
+	border: 0;
+	height: auto;
+	line-height: 100%;
+	outline: none;
+	text-decoration: none;
+	-ms-interpolation-mode: bicubic;
+}
+
+#outlook a {
+	padding: 0;
+}
+
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+
+sup {
+	line-height: 1;
+	vertical-align: top;
+	mso-text-raise: 30%;
+	position: relative;
+	top: -0em;
+	font-size: 66%;
+}
+
+font {
+	font-family: Arial, Helvetica, sans-serif;
+}
